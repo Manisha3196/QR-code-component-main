@@ -28,8 +28,8 @@ Desktop screenshot:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Manisha3196/QR-code-component-main
+- Live Site URL: https://manisha3196.github.io/QR-code-component-main.io/
 
 ## My process
 
